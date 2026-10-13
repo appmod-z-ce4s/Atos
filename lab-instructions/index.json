@@ -64,16 +64,6 @@
       "duration": "45 min",
       "difficulty": "Intermediate",
       "icon": "⚙️"
-    },
-    {
-      "id": "assembler-explanation",
-      "title": "Lab 8: Assembler Explanation & Understanding",
-      "description": "Understand a real IBM HLASM application from business analyst, developer, and technical analyst perspectives with Mermaid diagrams.",
-      "file": "assembler-explanation.md",
-      "duration": "30–45 min",
-      "difficulty": "Beginner–Intermediate",
-      "icon": "🧩",
-      "category": "assembler"
     }
   ]
 }
